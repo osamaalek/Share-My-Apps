@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Share  My Apps</string>
+    <string name="msg_enable_wifi_ap">Please, enable the Wifi Access Point</string>
+    <string name="txt_enable_server">Enable the server</string>
+    <string name="txt_please_enable_server">Please, enable the server to display the address</string>
+    <string name="msg_some_thing_wrong">Sorry, something is wrong :-(</string>
+</resources>
